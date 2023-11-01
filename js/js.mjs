@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
     updateList();
   });
 });
-
+// animacion
 const buttonShoot = document.getElementById("button-shoot");
 const shoot = document.getElementById("shoot");
 
