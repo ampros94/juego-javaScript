@@ -68,7 +68,7 @@ i{
 .list{
     width: calc(100% - (var(--margin-inputs) * 2));
     margin: 0px var(--margin-inputs);
-    display: none;
+    color: black;
 }
 .list-group{
     width: 100%;
@@ -77,6 +77,7 @@ i{
     background: #fff;
     border-radius: 10px;
     overflow-y: auto;
+    color: black;
 }
 .button-play{
     width: 187px;
